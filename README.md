@@ -65,4 +65,4 @@ Production-ready build with hashed CSS/JS assets
 
 Fully responsive layout (Task 1 document recreated)
 
-Live Preview: 
+Live Preview: https://donthi-nishitha-4.github.io/document-recreation/
