@@ -21,7 +21,7 @@ ks2/
 │ ├─ assets/ # CSS and other assets
 │ ├─ data/task1.json # JSON data for Handlebars
 │ └─ main.js # JS imports CSS and initializes page
-├─ dist/ # Compiled output after build
+├─ docs/ # Compiled output after build
 ├─ vite.config.js # Vite configuration
 ├─ package.json
 └─ README.md
