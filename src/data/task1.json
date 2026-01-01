@@ -1,0 +1,56 @@
+{
+  "title": "Internship Task – Bootstrap 5 UI Exploration & Page Design",
+
+  "objective": [
+    "Explore Bootstrap 5 official documentation and examples",
+    "Understand structure and usage of components",
+    "Design clean, modern and responsive web pages",
+    "Focus on component synergy and layout composition"
+  ],
+
+  "scope": [
+    "Review Bootstrap 5 Examples section",
+    "Extract UI patterns such as navbars, cards, carousels, forms, modals",
+    "Combine components into visually appealing original pages",
+    "Ensure responsiveness across devices"
+  ],
+
+  "technologies": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap 5 (latest)",
+    "Git and GitHub"
+  ],
+
+  "deliverables": [
+    "Use Bootstrap via CDN",
+    "Create index.html, about.html, contact.html",
+    "Design at least 3 full pages (Home, About/Services, Contact)",
+    "Maintain consistent styling and responsiveness",
+    "Deploy using GitHub Pages or Netlify"
+  ],
+
+  "reflection": "Intern must submit a written report explaining the steps taken, tools used, challenges faced, learning journey and total time spent.",
+
+  "outcomes": [
+    "Hands-on practice with Bootstrap 5",
+    "Improved UI/UX design skills",
+    "Ability to remix existing components creatively",
+    "Experience in responsive web design",
+    "Practice documenting work clearly"
+  ],
+
+  "guidelines": [
+    "Use only Bootstrap 5 as the main framework",
+    "Do not copy complete example pages",
+    "Keep code clean and well indented",
+    "Maintain modern, clear page design",
+    "Seek feedback when stuck"
+  ],
+
+  "submission": [
+    "GitHub Repository link",
+    "Live Preview link (GitHub Pages or Netlify)",
+    "Project Reflection Report as README.md or PDF"
+  ]
+}

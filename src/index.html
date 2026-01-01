@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{title}}</title>
+</head>
+<body>
+
+<h1>🚀 {{title}}</h1>
+
+<h2>🎯 Objective</h2>
+<ul>
+  {{#each objective}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>📌 Scope of Work</h2>
+<ul>
+  {{#each scope}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>🛠️ Technologies to Be Used</h2>
+<ul>
+  {{#each technologies}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>📂 Task Breakdown / Deliverables</h2>
+<ul>
+  {{#each deliverables}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>✍️ Project Reflection (Mandatory)</h2>
+<p>{{reflection}}</p>
+
+<h2>🎯 Expected Outcome</h2>
+<ul>
+  {{#each outcomes}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>📖 Guidelines</h2>
+<ul>
+  {{#each guidelines}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>📤 Submission Format</h2>
+<ul>
+  {{#each submission}}
+    <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<script type="module" src="./main.js"></script>
+</body>
+</html>
