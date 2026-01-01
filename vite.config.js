@@ -13,7 +13,7 @@ export default defineConfig({
     })
   ],
   build: {
-    outDir: "../dist",    // compiled output goes to project/dist
+    outDir: "../docs",    // compiled output goes to project/dist
     emptyOutDir: true     // clears dist folder before build
   },
   server: {
@@ -21,3 +21,4 @@ export default defineConfig({
     open: true            // opens browser automatically
   }
 });
+
